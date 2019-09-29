@@ -1,3 +1,3 @@
 # Home Page
-## Check out my Bio
+## Check out my [bio page](bio)
 ![Crane](AirCraft Lift.JPG)
