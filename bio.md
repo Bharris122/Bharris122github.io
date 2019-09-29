@@ -3,4 +3,6 @@
 ## Tandem Lift 
 ![Tandem](Crane Tandem lift.JPG)
 
-![Fuji](Mount Fuji.JPG)
+## Hobbies
+Some of the hobbies and activities I enjoy to do is hiking and staying physically fit
+![Fuji](Mount Fuji.JPG 'Fuji')
