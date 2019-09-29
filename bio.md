@@ -4,5 +4,8 @@
 ![Tandem](Crane Tandem lift.JPG)
 
 ## Hobbies
-Some of the hobbies and activities I enjoy to do is hiking and staying physically fit
+Some of the hobbies and activities I enjoy to do is hiking and staying physically fit.
+#### Mount Fuji
 ![Fuji](Mount Fuji.JPG 'Fuji')
+#### Mount Suribachi
+![Suribachi](Mount Suribachi.JPG)
