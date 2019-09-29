@@ -1,4 +1,4 @@
-# ***Man Vs Machine***
+[# ***Man Vs Machine***](https://medium.com/predict/man-vs-machine-the-latest-chapter-is-just-starting-dc1eb66e5c2a)
 ### Is advancement in technology beneficial or problematic?
 #### The Benefits
 1. Easily accessible to the internet 
