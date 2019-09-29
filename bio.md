@@ -7,5 +7,5 @@
 Some of the hobbies and activities I enjoy to do is hiking and staying physically fit.
 #### Mount Fuji
 ![Fuji](Mount Fuji.JPG 'Fuji')
-#### Mount Suribachi
+#### [Mount Suribachi](https://en.wikipedia.org/wiki/Mount_Suribachi)
 ![Suribachi](Mount Suribachi.JPG)
